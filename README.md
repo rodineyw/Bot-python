@@ -8,4 +8,4 @@
 
 *Pressione Enter para prosseguir.*
 
-*A biblioteca Time, não precisa ser instalada, pois ela já vem com o Python*
+*A biblioteca `Time`, não precisa ser instalada pois ela já vem com o Python.*
