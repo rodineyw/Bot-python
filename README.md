@@ -11,7 +11,7 @@
 *A biblioteca `Time`, não precisa ser instalada pois ela já vem com o Python.*
 ---
 
-### Nesse projetos temos dois arquivos com os mesmo código, porem em formatos diferentes.
+### Nesse projetos temos dois arquivos com os mesmo código, porém em formatos diferentes.
 
 - O arquivo botpy`.py` executa direto pelo Python.
 
