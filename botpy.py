@@ -37,5 +37,6 @@ pa.press("tab")
 pa.write("""
 Temos informações importantes.
 """)
+
 time.sleep(3)
 pa.click(x=449, y=255)
